@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Bild-Editor",
+  "description": "Eine Anwendung, mit der Benutzer Bilder mithilfe von Textanweisungen mit dem Gemini 2.5 Flash Image-Modell bearbeiten können. Laden Sie ein Bild hoch, geben Sie eine Anweisung ein und generieren Sie eine neue Version Ihres Bildes.",
+  "requestFramePermissions": []
+}
